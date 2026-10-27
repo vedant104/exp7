@@ -1,3 +1,5 @@
+//javac -cp ".;mysql-connector-j-9.x.x.jar" exp7.java
+//java -cp ".;mysql-connector-j-9.x.x.jar" exp7
 import java.sql.*;
 
 public class exp7 {
